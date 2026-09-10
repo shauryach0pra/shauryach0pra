@@ -27,12 +27,6 @@
 
 <div align="center">
 
-<img src="./github-metrics.svg?v=3" alt="Shaurya's GitHub Metrics" width="85%" />
-
-</div>
-
-<div align="center">
-
 <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="85%" />
 
 </div>
