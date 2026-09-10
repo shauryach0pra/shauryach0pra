@@ -4,21 +4,28 @@
 
 ### Exploring AI Engineering & Cyber Security
 
-<!-- Social & Portfolio Badges -->
+<!-- GitHub Buttons & Shields (Matching your exact screenshot style) -->
 <p align="center">
+  <!-- Follow Button with Dynamic Counter -->
+  <iframe src="https://ghbtns.com/github-btn.html?user=shauryach0pra&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub Follow"></iframe>
+
+  <!-- Website Button -->
   <a href="https://shauryachopra.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-3B90F0?logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-3B90F0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" height="28" />
   </a>
+
+  <!-- LinkedIn Button -->
   <a href="https://www.linkedin.com/in/shaurya-chopra-1a1922379/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
+
+  <!-- Email Button -->
   <a href="mailto:shauryachopra@zohomail.in">
-    <img src="https://img.shields.io/badge/Email-2268C3?logo=zoho&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-2268C3?style=for-the-badge&logo=zoho&logoColor=white" alt="Email" height="28" />
   </a>
-  <a href="https://github.com/shauryach0pra" target="_blank">
-    <img src="https://img.shields.io/github/followers/shauryach0pra?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shauryach0pra&color=0077B5" alt="Profile Views" />
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=shauryach0pra&color=0077B5&style=flat-square" alt="Profile Views" height="28" />
 </p>
 
 </div>
