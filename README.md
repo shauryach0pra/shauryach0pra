@@ -1,15 +1,4 @@
-<table width="100%" style="border:none !important; border-collapse:collapse !important;">
-<tr style="border:none !important;">
-<td width="15%" align="left" valign="middle" style="border:none !important; background:transparent;">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="shauryach0pra's GitHub profile" src="dark_mode.svg" width="160" />
-</picture>
-
-</td>
-<td width="70%" align="center" valign="middle" style="border:none !important; background:transparent;">
+<div align="center">
 
 ### Hi, I'm Shaurya Chopra 👋
 
@@ -17,18 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-chopra-1a1922379/)
 [![Zoho Mail](https://img.shields.io/badge/Zoho%20Mail-C8202F?style=for-the-badge&logo=zoho&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shauryachopra@zohomail.in)
 
-</td>
-<td width="15%" align="right" valign="middle" style="border:none !important; background:transparent;">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode2.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode2.svg" />
-  <img alt="shauryach0pra's GitHub profile 2" src="dark_mode2.svg" width="160" />
-</picture>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
