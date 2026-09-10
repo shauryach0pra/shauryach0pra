@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Shaurya Chopra
+# Shaurya Chopra
 
 ### Exploring AI Engineering & Cyber Security
 
@@ -30,7 +30,7 @@
 
 ---
 
-### **About Me**
+### About Me
 
 * 🔭 **Current Focus:** Working on **slicktrace** — vessel-source attribution for oil spills using SAR + AIS drift simulation.
 * 🌱 **Learning Journey:** Diving into SAR image processing, OpenDrift, and Geospatial Querying.
@@ -40,8 +40,8 @@
 
 ---
 
-### **GitHub Overview**
+### GitHub Overview
 
 <div align="center">
-  <img src="./github-metrics.svg?v=2" alt="Shaurya's GitHub Metrics" width="100%" />
+  <img src="./github-metrics.svg?v=3" alt="Shaurya's GitHub Metrics" width="85%" />
 </div>
