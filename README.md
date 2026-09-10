@@ -1,6 +1,6 @@
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="15%" align="left" valign="middle">
+<td width="15%" align="left" valign="middle" style="border:none;">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
@@ -9,7 +9,7 @@
 </picture>
 
 </td>
-<td width="70%" align="center" valign="middle">
+<td width="70%" align="center" valign="middle" style="border:none;">
 
 ### Hi, I'm Shaurya Chopra 👋
 
@@ -18,7 +18,7 @@
 [![Zoho Mail](https://img.shields.io/badge/Zoho%20Mail-C8202F?style=for-the-badge&logo=zoho&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shauryachopra@zohomail.in)
 
 </td>
-<td width="15%" align="right" valign="middle">
+<td width="15%" align="right" valign="middle" style="border:none;">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode2.svg" />
