@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-<td align="left" valign="middle">
+<td width="20%" align="left" valign="middle">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
@@ -9,16 +9,16 @@
 </picture>
 
 </td>
-<td align="center" valign="middle">
+<td width="60%" align="center" valign="middle">
 
 ### Hi, I'm Shaurya Chopra 👋
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shauryachopra.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-chopra-1a1922379/)
-[![Zoho Mail](https://img.shields.io/badge/Zoho%20Mail-C8202F?style=for-the-badge&logo=zoho&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shauryachopra@zohomail.in)
+[![Zoho Mail](https://img.shields.io/badge/Zoho%20Mail-C8202F?style=for-the-badge&logo=zoho&logoColor=white)](https://mail.zoho.in/zm/#compose?to=shauryachopra@zohomail.in)
 
 </td>
-<td align="right" valign="middle">
+<td width="20%" align="right" valign="middle">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode2.svg" />
