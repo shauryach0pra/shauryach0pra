@@ -14,3 +14,4 @@
 
 - 👨‍💻 All of my projects are available at **[https://shauryachopra.dev](https://shauryachopra.dev)**
 
+![GitHub Metrics](./github-metrics.svg)
