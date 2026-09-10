@@ -21,9 +21,9 @@
 <td width="20%" align="right" valign="middle">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode2.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode2.svg" />
-  <img alt="shauryach0pra's GitHub profile 2" src="dark_mode2.svg" width="160" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode2.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode2.svg?v=2" />
+  <img alt="shauryach0pra's GitHub profile 2" src="dark_mode2.svg?v=2" width="160" />
 </picture>
 
 </td>
