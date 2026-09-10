@@ -16,14 +16,14 @@ jobs:
           # Core Options
           user: ${{ github.repository_owner }}
           template: classic
-          base: activity, community, repositories
+          base: ""
           config_timezone: Asia/Kolkata
-          config_padding: 0, 8%
-          config_display: regular
           config_theme: dark
 
-          # Plugins
-          plugin_lines: yes
+          # Languages plugin only, in-depth mode
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_details: bytes-size, percentage, lines-count
           plugin_languages_limit: 8
+          plugin_languages_indepth: yes
+          plugin_languages_indepth_ignored: extra
