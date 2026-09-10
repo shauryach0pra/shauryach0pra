@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Runs at 0 minutes past the hour, every 12 hours
   schedule: [{cron: "0 */12 * * *"}]
-  # Allows manual triggering from the Actions tab
   workflow_dispatch:
-  # Run workflow automatically on push to master/main
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -17,22 +14,15 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
+          # Core Options
           user: ${{ github.repository_owner }}
           template: classic
-          # Removed 'metadata' from base to hide footer stats
           base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
-          # Hides footer details and timestamp
           config_padding: 0, 8%
 
-          # Plugins
+          # Plugins (Habits removed to prevent API error)
           plugin_lines: yes
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
