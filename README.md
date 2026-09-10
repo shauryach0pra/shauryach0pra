@@ -1,15 +1,15 @@
 <table width="100%">
 <tr>
-<td width="20%" align="left" valign="middle">
+<td style="width:20%; text-align:left;" valign="middle">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="shauryach0pra's GitHub profile" src="dark_mode.svg" width="160" />
+  <img alt="shauryach0pra's GitHub profile" src="dark_mode.svg" width="160" style="display:block;" />
 </picture>
 
 </td>
-<td width="60%" align="center" valign="middle">
+<td style="width:60%; text-align:center;" valign="middle">
 
 ### Hi, I'm Shaurya Chopra 👋
 
@@ -18,12 +18,12 @@
 [![Zoho Mail](https://img.shields.io/badge/Zoho%20Mail-C8202F?style=for-the-badge&logo=zoho&logoColor=white)](https://mail.zoho.in/zm/#compose?to=shauryachopra@zohomail.in)
 
 </td>
-<td width="20%" align="right" valign="middle">
+<td style="width:20%; text-align:right;" valign="middle">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode2.svg?v=2" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode2.svg?v=2" />
-  <img alt="shauryach0pra's GitHub profile 2" src="dark_mode2.svg?v=2" width="160" />
+  <img alt="shauryach0pra's GitHub profile 2" src="dark_mode2.svg?v=2" width="160" style="display:block; margin-left:auto;" />
 </picture>
 
 </td>
