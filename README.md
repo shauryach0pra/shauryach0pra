@@ -1,16 +1,16 @@
-## Hi there 👋
-![GitHub Metrics](./github-metrics.svg?v=2)
-<!--
-**shauryach0pra/shauryach0pra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Shaurya Chopra
 
-Here are some ideas to get you started:
+### Exploring AI Engineering & Cyber Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on **slicktrace — vessel-source attribution for oil spills using SAR + AIS drift simulation**
+
+- 🌱 I'm currently learning **SAR image processing, OpenDrift, and Geospatial Querying **
+
+- 👯 I'm looking to collaborate on **Open Source Projects**
+
+- 📫 How to reach me **shauryachopra@zohomail.in**
+
+- ⚡ Fun fact **I love to play chess & table tennis **
+
+- 👨‍💻 All of my projects are available at **[https://shauryachopra.dev](https://shauryachopra.dev)**
+
