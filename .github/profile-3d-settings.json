@@ -1,0 +1,13 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-transparent.svg",
+    "backgroundColor": "transparent",
+    "foregroundColor": "#eeeeff",
+    "strongColor": "rgb(255,200,55)",
+    "weakColor": "#aaaaaa",
+    "radarColor": "#47a042",
+    "growingAnimation": true,
+    "contribColors": ["#444444", "#1B7D28", "#24A736", "#2DD143", "#57DA69"]
+  }
+]
