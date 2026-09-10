@@ -18,7 +18,6 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Kolkata
-          config_theme: dark
 
           # Languages plugin only, in-depth mode
           plugin_languages: yes
@@ -26,4 +25,3 @@ jobs:
           plugin_languages_details: bytes-size, percentage, lines-count
           plugin_languages_limit: 8
           plugin_languages_indepth: yes
-          plugin_languages_indepth_ignored: extra
