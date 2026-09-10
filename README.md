@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **slicktrace — vessel-source attribution for oil spills using SAR + AIS drift simulation**
 
-- 🌱 I'm currently learning **SAR image processing, OpenDrift, and Geospatial Querying **
+- 🌱 I'm currently learning **SAR image processing, OpenDrift, and Geospatial Querying**
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
 
