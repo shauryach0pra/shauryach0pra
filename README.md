@@ -4,7 +4,7 @@
 
 ### Exploring AI Engineering & Cyber Security
 
-<!-- Social Badges & Links -->
+<!-- Social & Portfolio Badges -->
 <p align="center">
   <a href="https://shauryachopra.dev/" target="_blank">
     <img src="https://img.shields.io/badge/WEBSITE-SHAURYACHOPRA.DEV-0B192C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
@@ -16,6 +16,14 @@
     <img src="https://img.shields.io/badge/EMAIL-ZOHOMAIL-2268C3?style=for-the-badge&logo=zoho&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=shauryach0pra&style=for-the-badge&color=0077B5" alt="Profile Views" />
+</p>
+
+<!-- Live Repository Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/contributors/shauryach0pra/shauryach0pra?style=for-the-badge&color=44cc11" alt="Contributors" />
+  <img src="https://img.shields.io/github/issues/shauryach0pra/shauryach0pra?style=for-the-badge&color=007ec6" alt="Open Issues" />
+  <img src="https://img.shields.io/github/issues-pr/shauryach0pra/shauryach0pra?style=for-the-badge&color=007ec6" alt="Open PRs" />
+  <img src="https://img.shields.io/github/last-commit/shauryach0pra/shauryach0pra?style=for-the-badge&color=blue" alt="Last Commit" />
 </p>
 
 </div>
