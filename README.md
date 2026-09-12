@@ -13,7 +13,6 @@
 ### About Me
 
 * 🔭 **Current Focus:** Working on **Slick Trace** — vessel source attribution for oil spills using SAR + AIS drift simulation.
-* 🌱 **Learning Journey:** Diving into SAR image processing, OpenDrift, and Geospatial Querying.
 * 👯 **Collaboration:** Looking to collaborate on open source AI engineering and cybersecurity projects.
 * 👨‍💻 **Portfolio:** Explore all my projects at **[shauryachopra.dev](https://shauryachopra.dev/)**.
 * ⚡ **Fun Fact:** I love playing chess, table tennis and piano.
