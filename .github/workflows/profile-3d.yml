@@ -3,6 +3,9 @@ name: GitHub-Profile-3D-Contrib
 on:
   schedule:
     - cron: "0 18 * * *"   # 11:30 PM IST (IST is UTC+5:30)
+    push:
+     branches:
+     - main
   workflow_dispatch:
 
 permissions:
